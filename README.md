@@ -114,8 +114,7 @@ combo_not.txt
 
 ```
 
-
-<h1> Dump Pcap Files <h1>
+ Dump Pcap Files
   
  
  ```
@@ -156,3 +155,13 @@ combo_not.txt
 
  ```
   
+  
+  and more 
+  
+  
+  
+  installs 
+  
+  install the fucking go-lang first 
+  
+  `git clone https://github.com/ArkAngeL43/Go-Hex.git ; clear ; sudo apt-get install golang ; clear ; go get github.com/logrusorgru/aurora ; clear`
